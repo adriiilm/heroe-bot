@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon bot.js"
   },
-  "author": "Ozzie Neher <oz.neher@gmail.com> (http://neher.me)",
+  "author": "adriiilm <contactoadriiilm@gmail.com> (http://adriiilm.me)",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^5.0.1",
